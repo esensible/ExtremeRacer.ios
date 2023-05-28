@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE017870-EEA6-460C-981B-979E3E193CBA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0531C72-5063-4C6B-A911-AEFE40C4BFD8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "init(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0531C72-5063-4C6B-A911-AEFE40C4BFD8 - ceab9ad27fd73db9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.VersionedDict.init(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ExtremeTest.VersionedDict"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "B0531C72-5063-4C6B-A911-AEFE40C4BFD8 - 99070ac53c2c4fcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; (Swift.Int, Any) in ExtremeTest.VersionedDict.init(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ExtremeTest.VersionedDict"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D88D9AC8-0768-4F13-BFAB-2E27EA00A659"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getUpdates(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2592420-23BA-44E2-9B85-0B6835B616E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/HTTPServer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "eventHandler(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2592420-23BA-44E2-9B85-0B6835B616E3 - 152cd50487499982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.HTTPServer.eventHandler(Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; (Swift.Int, Swift.Dictionary&lt;Swift.String, Any&gt;)"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/HTTPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "F2592420-23BA-44E2-9B85-0B6835B616E3 - b57d9889296dfc1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.HTTPServer.eventHandler(Swift.Dictionary&lt;Swift.String, Any&gt;, Swift.Dictionary&lt;Swift.String, Swift.String&gt;) -&gt; (Swift.Int, Swift.Dictionary&lt;Swift.String, Any&gt;)"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/HTTPServer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B1398BB-F414-48C5-9E63-BE1B86ED90E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "raceStart()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B1398BB-F414-48C5-9E63-BE1B86ED90E6 - 213610ce8ac5a8b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.getUpdates(Swift.Int) -&gt; (Swift.Int, Swift.Dictionary&lt;Swift.String, Any&gt;)"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "9B1398BB-F414-48C5-9E63-BE1B86ED90E6 - 90e92220f8e3f9ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.raceStart() -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1B905F7-6197-4894-9CC6-389CB1AFD011"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "Race"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B1B905F7-6197-4894-9CC6-389CB1AFD011 - 90e92220f8e3c772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.raceStart() -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "B1B905F7-6197-4894-9CC6-389CB1AFD011 - 90e92220f8e3c772"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.raceStart() -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FEFF89F-0E3E-493B-97F1-7E558722A4C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "handleEvent(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FEFF89F-0E3E-493B-97F1-7E558722A4C2 - 24bd865eb3c0d2a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "3784">
+               </Location>
+               <Location
+                  uuid = "0FEFF89F-0E3E-493B-97F1-7E558722A4C2 - 24bd865eb3c0d2a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "4000">
+               </Location>
+               <Location
+                  uuid = "0FEFF89F-0E3E-493B-97F1-7E558722A4C2 - 24bd865eb3c0d288"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "3764">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03BE8B6B-24AF-4DA6-840C-E295EAD42715"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "handleEvent(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03BE8B6B-24AF-4DA6-840C-E295EAD42715 - bed2d77ac04c16ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "03BE8B6B-24AF-4DA6-840C-E295EAD42715 - ad05c5d2e7a94ee5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (__C.NSTimer) -&gt; () in closure #2 @Swift.MainActor () -&gt; () in ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "286DEA30-7DCE-4F48-80D2-5AAE962D3F41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "handleEvent(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "286DEA30-7DCE-4F48-80D2-5AAE962D3F41 - 24bd865eb3c0dd5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "2552">
+               </Location>
+               <Location
+                  uuid = "286DEA30-7DCE-4F48-80D2-5AAE962D3F41 - 28e4550776f7b39c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "347FB76A-F72B-46E5-9855-8604DB5775AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExtremeTest/Race.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "handleEvent(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "347FB76A-F72B-46E5-9855-8604DB5775AE - 24bd865eb3c0dc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  uuid = "347FB76A-F72B-46E5-9855-8604DB5775AE - 24bd865eb3c0dc74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExtremeTest.Race.handleEvent(event: Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "ExtremeTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esensible/src/ExtremeTest/ExtremeTest/Race.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
